@@ -2,7 +2,6 @@
 
 
 
-###idea
+>>idea
 
-
-##img pic
+>img pic
