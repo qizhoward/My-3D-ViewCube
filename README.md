@@ -3,11 +3,6 @@
 
 
 >My Idea 
->>Want To Write 
-Hand Drawing
-
-
-
-
+>>Want To Write programm and Hand Drawing
 >>>img pic
 
