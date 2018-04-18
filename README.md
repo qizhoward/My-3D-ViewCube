@@ -2,6 +2,12 @@
 
 
 
->>idea
+>>>>My Idea
+>>Want To Write
+Hand Drawing
+
+
+
 
 >img pic
+
