@@ -11,9 +11,9 @@
               -1
               (-2)
               west
- ___ [] the work? Like?as? time box?
-        some container box..........
-   you must thinking before..........
+ ___ [] the work? Like?as? time box?</br>
+        some container box..........</br>
+   you must thinking before..........</br>
        
          2           2          2         2                           2                    2
        1<->1     1<<<->>>1     1-1       <->                        1<->1                1<->1
