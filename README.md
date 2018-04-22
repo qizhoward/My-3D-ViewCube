@@ -35,8 +35,16 @@
            -1  -1                      west                                                   west
          (-2)   (-2)             
        -1          -1                   >          >          >         >         >       new
-                     west 
-                     
+                     west              <          <          <         <         <        old
+                                        >          >          >         >         >    next oled?
+                                       <          <          <         <         <      
+                                     |      >      >          >         >    >       | 
+                                     |     <      <          <         <    <        | 
+                                     |      >                >               >       |
+                                     |-----------------------------------------------| 
+                                                      
+                                a new (shower room / bathroom)and girlfriend japan noodles 
+                                                                                     spaghetti?
     Recon structing
     again structure
      iug nre
