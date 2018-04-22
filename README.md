@@ -44,7 +44,8 @@
                                      |-----------------------------------------------| 
                                                       
                                 a new (shower room / bathroom)and girlfriend japan noodles 
-                                                                                     spaghetti?
+                                                                                     spaghetti?                            
+                                                                          
     Recon structing
     again structure
      iug nre
@@ -142,10 +143,16 @@ ___ [] the work? Like?as? time box?</br>
             1    +     1     +    1
                  1     +     1
                        1
-                                                                                              
-          
-      
-      
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+        I want to learn international chess and what is King car translocation    love you                                                                             
+ ---------------------------------------------------------------------------------------------------------------------- 
       
       
       
