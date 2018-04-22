@@ -5,11 +5,14 @@
 >>>img pic
 
              north
-              (1)
+              (2)
+               1
      (-2)，-1，0，1，(2)
-             （-1）  
+              -1
+              (-2)
               west
  ___ [] the work? Like?as? time box?
+        some container box..........
    you must thinking before..........
        
          2           2          2         2                           2                    2
