@@ -5,14 +5,14 @@
 >>>img pic
 
               north                    north               north                      north
-                1                       +1                    +1          +1               1             1
-               (2)                     (+2)                    (+2)    (+2)                  (2)     （2）
-                1                       +1                        +1  +1                       1     1
-      -1/(-2)-1.0.1(2)/1       -1/(-2)-1.0.+1(+2)/+1                 0                            0
-               -1                       -1                        -1  -1                      -1    -1
-              (-2)                     (-2)                     (-2)   (-2)                 (-2)     （-2） 
-               -1                       -1                    -1          -1              -1            -1
-              west                     west                                west                           west  
+                1                       +1                    +1           +1             1             1
+               (2)                     (+2)                    (+2)     (+2)                (2)     （2）
+                1                       +1                       +1    +1                     1     1
+      -1/(-2)-1.0.1(2)/1       -1/(-2)-1.0.+1(+2)/+1                 0                           0
+               -1                       -1                       -1    -1                    -1    -1
+              (-2)                     (-2)                    (-2)     (-2)                (-2)    （-2） 
+               -1                       -1                   -1            -1             -1           -1
+              west                     west                                west                          west  
               
      north                       north                     north                      north
         1           1             2           2               2           2               0            0
@@ -26,6 +26,8 @@
                        |   
                        | 
     like a Stereoscopic（three dimensional）Interlayer？
+    
+    like apple............</br>
              
 ___ [] the work? Like?as? time box?</br>
         some container box..........</br>
