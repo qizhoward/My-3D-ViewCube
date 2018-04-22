@@ -151,7 +151,8 @@ ___ [] the work? Like?as? time box?</br>
                        
                        
                        
-        I want to learn international chess and what is King car translocation    love you                                                                             
+        I want to learn international chess and what is King car translocation...........
+        
  ---------------------------------------------------------------------------------------------------------------------- 
       
       
