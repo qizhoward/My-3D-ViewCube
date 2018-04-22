@@ -25,9 +25,24 @@
                      west                     west                         west                          west
                        |   
                        | 
-    like a Stereoscopic（three dimensional）Interlayer？
+    like a Stereoscopic（three dimensional）Interlayer？ 
     
-    like apple............   
+    north                      
+        1           1                   1            0
+         (2)     (2)2                   2            2          2         0         2         1
+            1   1   1                   1            1          1         1         1         2
+              0 2 1 2             0 2 1 2      1 2 1 2      2 1 2     0 1 0     2 1 2     1 2 1
+           -1  -1                 
+         (-2)   (-2)             
+       -1          -1           
+                     west 
+                     
+    Recon structing
+    again structure
+     iug nre
+     struct                      v
+    like a wave............   haha~:)    
+    like apple............       v
              
 ___ [] the work? Like?as? time box?</br>
         some container box..........</br>
