@@ -4,11 +4,11 @@
 >>Want To Write programm and Hand Drawing
 >>>img pic
 
-       north
-         1
-  -2，-1，0，1，2
-         -1  
-        west
+          north
+            1
+     -2，-1，0，1，2
+           -1  
+           west
  ___ [] the work? Like?as? time box?
        
          2           2          2         2                           2                    2
