@@ -3,6 +3,7 @@
 >My Idea 
 >>Want To Write programm and Hand Drawing
 >>>img pic
+
         1
 -2，-1，0，1，2
        -1 
