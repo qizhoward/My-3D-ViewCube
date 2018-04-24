@@ -167,6 +167,28 @@ ___ [] the work? Like?as? time box?</br>
           
                             cool card...................
                             It means three heart two love
+               
+               
+           the wows game is...
+            (World of warships)
+            
+            A B C D E F G H I J
+          1                    1
+          2                    2
+          3                    3
+          4                    4
+          5                    5
+          6                    6
+          7                    7
+          8                    8         
+          9                    9
+          10                   10
+            A B C D E F G H I J                
+                            
+                           
+                            
+                           
+                            
                  
 ------------------------------------------------------------------------------------------------------------------------ 
       
