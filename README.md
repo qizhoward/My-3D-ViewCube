@@ -193,7 +193,7 @@ ___ [] the work? Like?as? time box?</br>
 ------------------------------------------------------------------------------------------------------------------------ 
       
       maybe the key house is u_dish ? 8kb 8mb 8gb 8tb..... c c++ c# but more chinese people don't know..
-      
+                                                                    just like Snail...slow.. and too people growing old.
            /------\
           /        \
          /          \
