@@ -6,6 +6,11 @@
 >>>>Embedded Opera（open public) CubeView System 
 
 
+ I want to use Java c c# and c++ to write a program platform spport 3dmax solidworks and blender viewcube...
+ But I don't know how to write it... 
+
+
+
               north                    north               north                      north
                 1                       +1                    +1           +1             1             1
                (2)                     (+2)                    (+2)     (+2)                (2)     （2）
