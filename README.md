@@ -10,6 +10,20 @@
  But I don't know how to write it... 
 
 
+O(0,0,0); X,0; Y,0; Z,0; //ordinary point 普通点 </br>
+XY(0,0);        //ordinary surface 普通面 </br>
+XZ;XY;ZY        //组合体                  </br>
+
+3D use vector show box :                                            
+O(0,0,0)        //vector point 向量点                            </br>
+O(0,0);(0,0)    //vector 向量                                    </br>
+Ov(0,0);(0,H/Z) //vector 向量                                    </br>
+Xv(0,0)(H,0)    //vector 向量                                    </br>
+Yv(0,0)(W,0)    //vector 向量                                    </br>
+Zv(0,H/Z)(H,W)  //vector 向量                                    </br>
+or 或                                                             </br>
+Zv(0,H/Z);(0,0)(H,0);(0,0)(W,0) //vector 向量                     </br>
+vector point v1;vector point v2;vector point v3; //点1；点2；点3   </br>
 
               north                    north               north                      north
                 1                       +1                    +1           +1             1             1
@@ -213,5 +227,6 @@ ___ [] the work? Like?as? time box?</br>
       
         Iron Man key .......
       
-      
+      YuPeng 2018.09.21    </br>
+       余鹏 2018.09.21     </br>
        
