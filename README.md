@@ -12,7 +12,7 @@
 
 O(0,0,0); X,0; Y,0; Z,0; //ordinary point 普通点 </br>
 XY(0,0);        //ordinary surface 普通面 </br>
-XZ;XY;ZY        //组合体                  </br>
+XZ;XY;ZY    space    //组合体                  </br>
 
 3D use vector show box :                                            
 O(0,0,0)        //vector point 向量点                            </br>
