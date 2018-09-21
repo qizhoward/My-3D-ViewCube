@@ -10,7 +10,7 @@
  But I don't know how to write it... 
 
 
-O(0,0,0); X,0; Y,0; Z,0;*********space**********//ordinary point 普通点            </br>
+O(0,0,0); X,0; Y,0; Z,0;***** ****space**********//ordinary point 普通点            </br>
 XY(0,0);**********space*************************//ordinary surface 普通面           </br>
 XZ;XY;ZY**********space*************************//组合体                            </br>
 
